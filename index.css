@@ -144,7 +144,7 @@ h1, h2, h3, h4, h5, h6,
 
 h1, .h1 {
   font-size: 4rem !important;
-  text-shadow: 0 0 3px #36454F, 0 0 5px #36454F;
+  /* text-shadow: 0 0 3px #36454F, 0 0 5px #36454F; */
 }
 
 h2, .h2 {
@@ -724,7 +724,7 @@ hr.divider {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 4.5rem);
-  background: linear-gradient(to bottom, rgba(132,169,140, 0.2) 0%, rgba(132,169,140, 0.2) 100%), url("https://res.cloudinary.com/dyupexzz8/image/upload/v1613763178/Portfolio%20Assets/homepage_kztlab.jpg");
+  background: linear-gradient(to bottom, rgba(132,169,140, 0.2) 0%, rgba(132,169,140, 0.2) 100%), url("https://res.cloudinary.com/dyupexzz8/image/upload/v1613834568/Portfolio%20Assets/IMG_0222_dxqoxw.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: scroll;
@@ -816,6 +816,6 @@ header.masthead h1 {
   margin-left: -15px;
 }
 
-.test-2 {
+/* .test-2 {
   text-shadow: 0 0 3px #36454F, 0 0 5px #36454F;
-}
+} */
